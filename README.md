@@ -20,4 +20,4 @@ A web application developed to help students access campus resources in one plac
 Project is currently under development.
 
 ## Author
-Your Name
+Garimilla Nagavarshini
